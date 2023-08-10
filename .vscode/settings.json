@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ansi.h": "c",
+        "dbase.h": "c"
+    }
+}
